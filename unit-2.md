@@ -33,23 +33,3 @@ At the end of this unit the students will be able to
 1. Meaklim, T., & Sims, J. \(2011\). Leading Powerful Partnerships - a new model of public sector leadership development. International Journal of Leadership In Public Services, 7\(1\), 21-31.
 2. Hwang, H., Kang, M., & Youn, M. \(2014\). The influence of a leader's servant leadership on employees' perception of customers' satisfaction with the service and employees' perception of customers' trust in the service firm: the moderating role of employees' trust in the leader.Journal of Global Scholars of Marketing Science,24\(1\), 65-76.
 3. Van Dierendonck, D., Stam, D., Boersma, P., de Windt, N., & Alkema, J. \(2014\). Same difference? Exploring the differential mechanisms linking servant leadership and transformational leadership to follower outcomes.Leadership Quarterly,25\(3\), 544-562
-
-
-
-| DIRECTIVE BEHAVIOR | SUPPORTIVE BEHAVIOR |
-| :--- | :--- |
-| The extent to which the leader: | The extent to which the leader |
-| 1. Engages in one-way communication | 1. Engages in two way communication |
-| 2. Spells out the follower's role | 2. Listens and provides support and encouragement |
-| 3. Tells the follower what, where, when, and how to do something | 3. Facilitates interaction |
-| 4. Closely supervises performance | 4. Involves the follower in decision making |
-| 5. Key words are structure control and supervise | 5. Key words are listen, praise and facilitate. |
-
-#### 
-
-![](/assets/WHEN TO USE EACH STYLE-1.pdf)
-
-## 
-
-
-
